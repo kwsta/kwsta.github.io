@@ -16,15 +16,16 @@
 title: Tales from /dev/null
 email: talesfromdevnull@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-             Software engineering has it's ups and downs, especially in the start-up environment. I've been working professionally since 2005 in and out of start-ups. At one point a led a team called /dev/null, that is where this blog's name comes from.
+                  Tales from the world of software engineering, borne of the start-up frontlines.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: csevdino
 github_username:  kwsta
+google_analytics: ''
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
